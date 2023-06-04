@@ -5,7 +5,7 @@ The bot is fully customizable
 It's not a bot that can support several servers, but only one where your project is located.<br>
 ⚠️ I'll probably make updates in the coming days comme⚠️
 
-<img src="[https://ibb.co/d64kh4C](https://i.ibb.co/7Vtr9tM/Discord-42-D1-JHo-St-S.png)">
+<img src="https://i.ibb.co/7Vtr9tM/Discord-42-D1-JHo-St-S.png">
 
 ## 🚧 Requirements
 
