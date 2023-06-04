@@ -28,7 +28,7 @@ It's not a bot that can support several servers, but only one where your project
 + nuke.js
 + payment.js
 + profile.js
-+ setup-verify.js
++ setup-verify.js (THE BOT MUST BE ABOVE THE ROLE)
 + suggest.js
 + verify.js
 + vouch.js
