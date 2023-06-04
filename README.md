@@ -6,6 +6,7 @@ It's not a bot that can support several servers, but only one where your project
 ⚠️ I'll probably make updates in the coming days comme⚠️
 
 <img src="https://i.ibb.co/7Vtr9tM/Discord-42-D1-JHo-St-S.png">
+<img src="https://i.ibb.co/h2n19R6/Discord-Ir-PEq-ANr-Cc.png">
 
 ## 🚧 Requirements
 
